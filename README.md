@@ -59,6 +59,10 @@ albo w przeglądarce (`npx expo start --web`).
 - `data/projects.ts` startowa lista projektów
 - `theme/theme.ts` kolory i wspólne style
 
+## Zrzuty ekranu
+
+Zrzuty ekranu z aplikacji znajdują się w folderze `screenshots/`.
+
 ## Autor
 
 Łukasz Janicki
