@@ -11,7 +11,7 @@ export const projects: Project[] = [
     id: 'streakify-ios',
     name: 'Streakify iOS',
     description:
-      'Aplikacja iOS do monitorowania codziennych nawykow ze sledzeniem serii (streak) oraz analityka postepow.',
+      'Aplikacja iOS do monitorowania codziennych nawyków ze śledzeniem serii (streak) oraz analityką postępów.',
     technologies: ['Swift', 'SwiftUI', 'iOS'],
     year: 2026,
   },
@@ -19,7 +19,7 @@ export const projects: Project[] = [
     id: 'finanse-domowe-android',
     name: 'Finanse Domowe Android',
     description:
-      'Aplikacja na Androida do zarzadzania domowym budzetem, kontroli wydatkow i planowania oszczednosci.',
+      'Aplikacja na Androida do zarządzania domowym budżetem, kontroli wydatków i planowania oszczędności.',
     technologies: ['Kotlin', 'Android', 'Jetpack Compose'],
     year: 2026,
   },
@@ -27,7 +27,7 @@ export const projects: Project[] = [
     id: 'fakeolx',
     name: 'fakeOLX',
     description:
-      'Klon serwisu ogloszeniowego OLX - przegladanie, dodawanie i wyszukiwanie ogloszen.',
+      'Klon serwisu ogłoszeniowego OLX - przeglądanie, dodawanie i wyszukiwanie ogłoszeń.',
     technologies: ['Kotlin', 'Android'],
     year: 2026,
   },
@@ -35,7 +35,7 @@ export const projects: Project[] = [
     id: 'task-app',
     name: 'Task App',
     description:
-      'Aplikacja do zarzadzania zadaniami i organizacji pracy z podzialem na priorytety.',
+      'Aplikacja do zarządzania zadaniami i organizacji pracy z podziałem na priorytety.',
     technologies: ['Java'],
     year: 2026,
   },
@@ -43,7 +43,7 @@ export const projects: Project[] = [
     id: 'contact-manager',
     name: 'Contact Manager',
     description:
-      'Menedzer kontaktow umozliwiajacy dodawanie, edycje i szybkie wyszukiwanie wpisow.',
+      'Menedżer kontaktów umożliwiający dodawanie, edycję i szybkie wyszukiwanie wpisów.',
     technologies: ['JavaScript', 'HTML', 'CSS'],
     year: 2026,
   },
@@ -51,7 +51,7 @@ export const projects: Project[] = [
     id: 'foodpanda-analytics-system',
     name: 'Foodpanda Analytics System',
     description:
-      'System analityczny do przetwarzania i wizualizacji danych zamowien z platformy dostaw.',
+      'System analityczny do przetwarzania i wizualizacji danych zamówień z platformy dostaw.',
     technologies: ['JavaScript', 'Node.js'],
     year: 2025,
   },
