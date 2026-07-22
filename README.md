@@ -61,8 +61,17 @@ albo w przeglądarce (`npx expo start --web`).
 
 ## Zrzuty ekranu
 
-Zrzuty ekranu z aplikacji znajdują się w folderze `screenshots/`.
+<p>
+  <img src="screenshots/ekran1.png" width="24%" alt="Profil" />
+  <img src="screenshots/ekran2.png" width="24%" alt="Lista projektów" />
+  <img src="screenshots/ekran3.png" width="24%" alt="Szczegóły projektu" />
+  <img src="screenshots/ekran4.png" width="24%" alt="Dodawanie projektu" />
+</p>
 
 ## Autor
 
 Łukasz Janicki
+
+## Licencja
+
+MIT — szczegóły w pliku [LICENSE](LICENSE).
