@@ -46,9 +46,6 @@ yarn-error.log
 dist/
 web-build/
 
-# Claude Code
-.claude/
-
 # fastlane
 #
 # It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the

@@ -1,1 +1,0 @@
-# Zrzuty ekranu

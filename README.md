@@ -68,10 +68,6 @@ albo w przeglądarce (`npx expo start --web`).
   <img src="screenshots/ekran4.png" width="24%" alt="Dodawanie projektu" />
 </p>
 
-## Autor
-
-Łukasz Janicki
-
 ## Licencja
 
-MIT — szczegóły w pliku [LICENSE](LICENSE).
+MIT
